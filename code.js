@@ -1,13 +1,13 @@
 /* SETTINGS START */
-const prefix = "!"
-const groupID = 123123;
+const prefix = "p!"
+const groupID = 5323388;
 const bot_token = process.env.botToken;
 const rblxCookie = process.env.rblxCookie;
-const officerRoleE = "Officer";
-const welcomeMessage = "Welcome!";
-const maxXP = 10;
-const xpAuditLogChannelID = "123123";
-const mainChatChannelID = "123123";
+const officerRoleE = "L | Grand Admiral";
+const welcomeMessage = "Welcome to Empire of the Hand!";
+const maxXP = 5;
+const xpAuditLogChannelID = "671376815297658925";
+const mainChatChannelID = "649287623990444054";
 const fireBaseURL = process.env.fireBaseURL;
 const xpName = "xp";
 /* SETTINGS END */
